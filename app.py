@@ -433,7 +433,7 @@ if __name__ == '__main__':
     if 'port' in _config:
         port = int(_config['port'])
     else:
-        port = 5443
+        port = 443
 
     _disable_https = 'disable_https' in _config and _config['disable_https']
 
