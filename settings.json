@@ -1,5 +1,5 @@
 {
-  "issuer": "https://localhost:8443/oauth/v2/oauth-anonymous",
+  "issuer": "https://cognito-idp.eu-central-1.amazonaws.com/eu-central-1_PvkVbrarf",
   "api_endpoint": "https://localhost:3000",
   "verify_ssl_server": false,
   "debug": true,
